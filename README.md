@@ -6,7 +6,7 @@ Here’s a beautifully formatted and professional `README.md` for your **Insuran
 
 A robust web application built with **Django**, **HTML**, **CSS**, and **Python**, designed to streamline and simplify tasks related to insurance. This system offers an intuitive platform for both **customers** and **administrators** to manage insurance policies, claims, and customer information effectively.
 
-> **📌 Forked from**: [original-author](https://github.com/original-author/insurance-management-system)
+> **📌 Forked from**: [original-author].((https://github.com/Shanti-1121/Insurance-Management-System1))
 > *Full credit to the original creator for the foundation of this project.*
 
 ---
